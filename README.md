@@ -1,6 +1,5 @@
 
-<DOCTYPE html>
-<html>
+
 <body style="background-color:bisque;background-image: url('abc.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;  
@@ -27,5 +26,4 @@
   Your browser does not support the video tag.
 </video>
     
-</body>
-</html>
+
