@@ -10,12 +10,7 @@
     <img alt="Covid-19: Everything you need to stay ahead while staying home" class="n3VNCb" src="https://buro247.my/special/covid-19-malaysia/images/tild6333-6336-4639-b635-313438393938__title.gif" data-noaft="1" jsname="HiaYvf" jsaction="load:XAeZkd;"align="right" style="width: 350px; height: 141.79px; margin: 23.1549px 10px;">
     
 <head>
-    <style>
-* {box-sizing: border-box;}
-body {font-family: Verdana, sans-serif;}
-.mySlides {display: none;}
-img {vertical-align: middle;}
-
+   
 /* Slideshow container */
 .slideshow-container {
   max-width: 500px;
@@ -169,7 +164,5 @@ a:hover, a:active {
   Your browser does not support the video tag.
 </video>
     
-<img alt="Thank You GIF by Reactions | Gfycat" class="n3VNCb" src="https://thumbs.gfycat.com/SpryMasculineCatfish-size_restricted.gif" data-noaft="1" jsname="HiaYvf" jsaction="load:XAeZkd;" align= "center"style="width: 250px; height: 150px; margin: 6px;">
-
 </body>
 </html>
