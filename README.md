@@ -2,8 +2,136 @@
 ![](stay hh.jpg)
 ![](stay.jpg)
 ![](Working from home during Coronavirus - 10 Tips.mp4)
+    <img alt="Hello to all - Christian Chat Rooms &amp; Forums | Hình ảnh, Gấu bắc ..." class="n3VNCb" src="https://i.pinimg.com/originals/b9/7d/c2/b97dc288d71e7938c1ce8b7faacdc9ac.gif" data-noaft="1" jsname="HiaYvf" jsaction="load:XAeZkd;" align= "left" style="width: 350px; height: 150px; margin: 10px;">
+    
+    <img alt="Covid-19: Everything you need to stay ahead while staying home" class="n3VNCb" src="https://buro247.my/special/covid-19-malaysia/images/tild6333-6336-4639-b635-313438393938__title.gif" data-noaft="1" jsname="HiaYvf" jsaction="load:XAeZkd;"align="right" style="width: 350px; height: 141.79px; margin: 23.1549px 10px;">
+    
+<head>
+    <style>
+* {box-sizing: border-box;}
+body {font-family: Verdana, sans-serif;}
+.mySlides {display: none;}
+img {vertical-align: middle;}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 500px;
+  position: relative;
+  margin: auto;
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .text {font-size: 11px}
+}
+</style>
+</head>
+<body>
+    <div class="slideshow-container">
+
+<div class="mySlides fade">
+  <div class="numbertext">1 / 3</div>
+  <img src="123.jpg" style="width:100%">
+  <div class="text">Stay At Home</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">2 / 3</div>
+  <img src="stay.jpg" style="width:100%">
+  <div class="text">Stay Healhty</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 3</div>
+  <img src="stay hh.jpg" style="width:100%">
+  <div class="text">Quarantine Yourself</div>
+</div>
+
+</div>
+<br>
+
+<div style="text-align:center">
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+</div>
+
+<script>
+var slideIndex = 0;
+showSlides();
+
+function showSlides() {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("dot");
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";  
+  }
+  slideIndex++;
+  if (slideIndex > slides.length) {slideIndex = 1}    
+  for (i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " active";
+  setTimeout(showSlides, 2000); // Change image every 2 seconds
+}
+</script>
 <title>MY LOCKDOWN STORY 2020</title>
-<h1 style="font-size:200%;text-align:center;font-family:cooper black; MY LOCKDOWN STORY 2020</h1>
+<h1 style="font-size:200%;text-align:center;font-family:cooper black;;"></style>MY LOCKDOWN STORY 2020</h1>
 <style>
 a:link, a:visited {
   background-color: #f44336;
