@@ -1,13 +1,6 @@
 
 
-<body style="background-color:bisque;background-image: url('abc.jpg');
-  background-repeat: no-repeat;
-  background-attachment: fixed;  
-  background-size: cover"></body>
-    
-</script>
-
-<title>MY LOCKDOWN STORY 2020</title>
+myloCKDOWN STORY 2020</title>
 </head>
 >p> If i'm not mistaken on 17 March 2020, i went back home before MCO day (18 March 2020) start. Well we were very shocked to hear that we can't go out after 18 March then UiTM also instructed all the students to go back. We need to empty the dorm as soon as possible. I'm very lucky person because soon after the announcement make by the UiTM about not to go out of the campus on that 18 March. The sad part was when my other friends especially those who lives at Sabah and interior Sarawak can't go back due to the announcement made by the government and UiTM board regarding the students leave. Then they had to be patience that they knew they can't go back like the others. What ever it was they have to stay they all the time until Perintah Kawalan Pergerakan (PKP) end.That was very unforgetable day for me where i never expect that i won't met my friends for 2 weeks and even a month. On that day MCO was only done in 2 weeks but it actually depends on the number of Covid 19 cases. </p>
 
