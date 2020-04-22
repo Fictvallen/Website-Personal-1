@@ -3,7 +3,7 @@
 ![](stay.jpg)
 ![](Working from home during Coronavirus - 10 Tips.mp4)
 <title>MY LOCKDOWN STORY 2020</title>
-<h1 style="font-size:200%;text-align:center;font-family:cooper black;;"></style>MY LOCKDOWN STORY 2020</h1>
+<h1 style="font-size:200%;text-align:center;font-family:cooper black; MY LOCKDOWN STORY 2020</h1>
 <style>
 a:link, a:visited {
   background-color: #f44336;
