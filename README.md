@@ -1,7 +1,4 @@
-![](123.jpg)
-![](stay hh.jpg)
-![](stay.jpg)
-![](Working from home during Coronavirus - 10 Tips.mp4)
+
     <img alt="Hello to all - Christian Chat Rooms &amp; Forums | Hình ảnh, Gấu bắc ..." class="n3VNCb" src="https://i.pinimg.com/originals/b9/7d/c2/b97dc288d71e7938c1ce8b7faacdc9ac.gif" data-noaft="1" jsname="HiaYvf" jsaction="load:XAeZkd;" align= "left" style="width: 350px; height: 150px; margin: 10px;">
     
     <img alt="Covid-19: Everything you need to stay ahead while staying home" class="n3VNCb" src="https://buro247.my/special/covid-19-malaysia/images/tild6333-6336-4639-b635-313438393938__title.gif" data-noaft="1" jsname="HiaYvf" jsaction="load:XAeZkd;"align="right" style="width: 350px; height: 141.79px; margin: 23.1549px 10px;">
@@ -131,7 +128,7 @@ function showSlides() {
 }
 </script>
 <title>MY LOCKDOWN STORY 2020</title>
-<h1 style="font-size:200%;text-align:center;font-family:cooper black;;"></style>MY LOCKDOWN STORY 2020</h1>
+<h1 style="font-size:200%;text-align:center;font-family:cooper black;;"><MY LOCKDOWN STORY 2020</h1>
 <style>
 a:link, a:visited {
   background-color: #f44336;
